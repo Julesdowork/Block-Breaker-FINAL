@@ -24,7 +24,7 @@ course by GameDev.tv on Udemy. The features I'm planning to add are:
 
 
 ### To-Do List
-+ Core gameplay
++ Core gameplay ✅
 + Power-ups
 + Different block types
 + Scoring system
